@@ -1,0 +1,1 @@
+"D:\Python\Python37-32\python.exe" "C:\Users\ranjans\Desktop\PYTHON_SCRIPT\DD_2_DataDomainInfoDataWarehouse.py"
